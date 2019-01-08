@@ -1,0 +1,11 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Library JS-TDD lab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Ducati <rafaelducati@gmail.com> (https://rafaelducati.github.io/)",
+  "license": "MIT"
+}
